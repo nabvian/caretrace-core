@@ -1,0 +1,21 @@
+CT ABDOMEN REPORT
+NORTHFIELD IMAGING CENTRE (SYNTHETIC)
+Radiology & Advanced Imaging  |  Reg. SYN-IMG-004
+SYNTHETIC RECORD - NOT A REAL PATIENT REPORT
+Patient: Arjun Mehta          Sex: M     DOB: 15 May 1988
+Case Ref: CT-DEMO-001         MRN: SYN-448120
+Examination Date : 20 April 2026
+Accession        : IMG-26-2588
+Modality         : CT abdomen and pelvis, portal venous phase
+Indication       : Anaemia under evaluation. Assess for occult source.
+FINDINGS
+Liver span 14.2 cm; parenchyma homogeneous.
+Spleen 11.4 cm, normal in echotexture.
+Right kidney length 10.8 cm. Left kidney length 10.6 cm.
+A 9 mm hypodense lesion is noted in segment VI of the liver.
+No metastasis. No free fluid.
+IMPRESSION
+Small hepatic lesion, likely benign on this appearance.
+Interval imaging in 6 months suggested.
+Reported by : Dr. M. D'Souza (synthetic), MD Radiodiagnosis
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 15_CT_Abdomen_Apr.pdf - page 1 of 1

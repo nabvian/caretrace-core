@@ -1,0 +1,18 @@
+CHEST RADIOGRAPH REPORT
+NORTHFIELD IMAGING CENTRE (SYNTHETIC)
+Radiology & Advanced Imaging  |  Reg. SYN-IMG-004
+SYNTHETIC RECORD - NOT A REAL PATIENT REPORT
+Patient: Arjun Mehta          Sex: M     DOB: 15 May 1988
+Case Ref: CT-DEMO-001         MRN: SYN-448120
+Examination Date : 15 March 2026
+Accession        : IMG-26-2201
+Modality         : Digital radiography, chest PA
+Referring Doctor : Dr. A. Sharma (synthetic)
+FINDINGS
+Lung fields are clear. No consolidation. No pleural effusion.
+Cardiac silhouette within normal limits. Bony cage intact; no fracture.
+IMPRESSION
+Study is unremarkable.
+Reported by : Dr. M. D'Souza (synthetic), MD Radiodiagnosis
+Technologist : Mr. K. Verma (synthetic)
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 14_Chest_Xray_Mar.pdf - page 1 of 1

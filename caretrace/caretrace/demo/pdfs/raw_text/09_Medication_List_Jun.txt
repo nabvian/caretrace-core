@@ -1,0 +1,18 @@
+MEDICATION LIST AT DISCHARGE
+NORTHFIELD GENERAL HOSPITAL (SYNTHETIC)
+Pharmacy - Medication List at Discharge
+SYNTHETIC RECORD
+Patient: Arjun Mehta          Sex: M     DOB: 15 May 1988
+Case Ref: CT-DEMO-001         MRN: SYN-448120
+List date: 15 June 2026
+CURRENT MEDICATIONS
+------------------------------------------------------------------
+DRUG                     DOSE      FREQUENCY      ROUTE   STATUS
+------------------------------------------------------------------
+Folic acid               5 mg      once daily     oral    active
+Pantoprazole            40 mg      once daily     oral    active
+Paracetamol            500 mg      as required    oral    active
+------------------------------------------------------------------
+This list reflects medications recorded at the time of discharge.
+Pharmacist: M. Devi (synthetic)
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 09_Medication_List_Jun.pdf - page 1 of 1

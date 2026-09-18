@@ -1,0 +1,18 @@
+IRON STUDIES - PARTIAL PANEL
+MERIDIAN DIAGNOSTIC LABORATORY (SYNTHETIC)
+12 Rowan Street, Fictionville  |  Lab Lic. SYN-0000
+SYNTHETIC RECORD - NOT A REAL PATIENT REPORT
+Patient: Arjun Mehta          Sex: M     DOB: 15 May 1988
+Case Ref: CT-DEMO-001         MRN: SYN-448120
+Report Date: 12 April 2026              Sample: Serum
+Requested by: Dr. R. Nair (synthetic)   Report No: LAB-26-06550
+IRON STUDIES (PARTIAL PANEL)
+------------------------------------------------------------------
+TEST                        RESULT      UNIT          REFERENCE
+------------------------------------------------------------------
+Serum Ferritin             18           ng/mL         30 - 400
+------------------------------------------------------------------
+Note: Transferrin saturation was not performed on this sample.
+Serum iron and TIBC were not requested.
+Verified by: Dr. S. Kulkarni (synthetic), MD Pathology
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 06_Ferritin_Report_Apr.pdf - page 1 of 1

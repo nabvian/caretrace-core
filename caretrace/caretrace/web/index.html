@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CARETRACE — Evidence Audit for Fragmented Medical Records</title>
+<meta name="description" content="CARETRACE transforms fragmented medical records into an auditable evidence map. Research/prototype software; not a diagnostic or treatment system.">
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230d3b52'/><path d='M8 20h4l2-8 3 12 3-9 2 5h4' stroke='%231c88a6' stroke-width='2' fill='none' stroke-linejoin='round'/></svg>">
+</head>
+<body>
+<noscript>
+  <div style="padding:40px;font-family:sans-serif;max-width:60ch;margin:0 auto">
+    <h1>CARETRACE</h1>
+    <p>This application requires JavaScript. The audit engine itself is a Python
+    service; only the interface needs scripting.</p>
+  </div>
+</noscript>
+
+<div id="app"></div>
+
+<script src="js/core.js"></script>
+<script src="js/screens_entry.js"></script>
+<script src="js/screens_audit.js"></script>
+<script src="js/screen_graph.js"></script>
+<script src="js/screen_brief.js"></script>
+<script src="js/screens_registry.js"></script>
+<script src="js/screens_terminology.js"></script>
+<script>
+  (async () => {
+    try { State.meta = await API.get('/api/meta'); } catch (e) { /* offline build */ }
+    const stored = localStorage.getItem('caretrace.case');
+    if (stored) State.caseId = stored;
+    Router.start();
+  })();
+</script>
+</body>
+</html>

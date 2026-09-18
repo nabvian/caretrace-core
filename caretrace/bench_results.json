@@ -1,0 +1,260 @@
+{
+  "corpus": {
+    "written": 10000,
+    "patients": 400,
+    "duplicates": 202,
+    "corrupt": 58,
+    "by_modality": {
+      "ECG_REPORT": 558,
+      "IMAGING_REPORT": 1203,
+      "LAB_REPORT": 4112,
+      "CONSULTATION": 1538,
+      "PRESCRIPTION": 1370,
+      "PATHOLOGY_REPORT": 959,
+      "DUPLICATE": 202,
+      "CORRUPT": 58
+    },
+    "dir": "/Users/koushikdas/.claude-science/orgs/45234665-3182-49c7-812f-c50d017fe358/workspaces/180ecf07-2d66-495d-806c-bc7a0f355516/.tmp/caretrace-bench-4pbrq5xf/corpus",
+    "generate_s": 1.97,
+    "corpus_mb": 3.6
+  },
+  "worker_sweep": [
+    {
+      "workers": 1,
+      "chunk_size": 200,
+      "files": 10000,
+      "ingested": 9740,
+      "duplicate": 202,
+      "failed": 58,
+      "pages": 9740,
+      "wall_s": 1.13,
+      "docs_per_s": 8862.1,
+      "db_mb": 29.2,
+      "peak_rss_mb": 110.2,
+      "repeats": 5,
+      "docs_per_s_min": 8081.6,
+      "docs_per_s_max": 8981.9,
+      "spread_pct": 10.2
+    },
+    {
+      "workers": 2,
+      "chunk_size": 200,
+      "files": 10000,
+      "ingested": 9740,
+      "duplicate": 202,
+      "failed": 58,
+      "pages": 9740,
+      "wall_s": 1.25,
+      "docs_per_s": 7994.1,
+      "db_mb": 29.2,
+      "peak_rss_mb": 119.6,
+      "repeats": 5,
+      "docs_per_s_min": 7897.5,
+      "docs_per_s_max": 8225.9,
+      "spread_pct": 4.1
+    },
+    {
+      "workers": 4,
+      "chunk_size": 200,
+      "files": 10000,
+      "ingested": 9740,
+      "duplicate": 202,
+      "failed": 58,
+      "pages": 9740,
+      "wall_s": 1.42,
+      "docs_per_s": 7019.5,
+      "db_mb": 29.2,
+      "peak_rss_mb": 125.6,
+      "repeats": 5,
+      "docs_per_s_min": 6979.7,
+      "docs_per_s_max": 7066.9,
+      "spread_pct": 1.2
+    },
+    {
+      "workers": 8,
+      "chunk_size": 200,
+      "files": 10000,
+      "ingested": 9740,
+      "duplicate": 202,
+      "failed": 58,
+      "pages": 9740,
+      "wall_s": 1.68,
+      "docs_per_s": 5957.2,
+      "db_mb": 29.2,
+      "peak_rss_mb": 127.8,
+      "repeats": 5,
+      "docs_per_s_min": 5768.2,
+      "docs_per_s_max": 6140.7,
+      "spread_pct": 6.3
+    }
+  ],
+  "chunk_sweep": [
+    {
+      "workers": 1,
+      "chunk_size": 50,
+      "files": 10000,
+      "ingested": 9740,
+      "duplicate": 202,
+      "failed": 58,
+      "pages": 9740,
+      "wall_s": 1.22,
+      "docs_per_s": 8164.7,
+      "db_mb": 28.3,
+      "peak_rss_mb": 130.0,
+      "repeats": 5,
+      "docs_per_s_min": 8124.7,
+      "docs_per_s_max": 8205.0,
+      "spread_pct": 1.0
+    },
+    {
+      "workers": 1,
+      "chunk_size": 200,
+      "files": 10000,
+      "ingested": 9740,
+      "duplicate": 202,
+      "failed": 58,
+      "pages": 9740,
+      "wall_s": 1.19,
+      "docs_per_s": 8404.5,
+      "db_mb": 29.1,
+      "peak_rss_mb": 130.0,
+      "repeats": 5,
+      "docs_per_s_min": 7808.3,
+      "docs_per_s_max": 9059.7,
+      "spread_pct": 14.9
+    },
+    {
+      "workers": 1,
+      "chunk_size": 800,
+      "files": 10000,
+      "ingested": 9740,
+      "duplicate": 202,
+      "failed": 58,
+      "pages": 9740,
+      "wall_s": 1.01,
+      "docs_per_s": 9921.6,
+      "db_mb": 30.4,
+      "peak_rss_mb": 131.6,
+      "repeats": 5,
+      "docs_per_s_min": 9010.6,
+      "docs_per_s_max": 10207.8,
+      "spread_pct": 12.1
+    }
+  ],
+  "pdf": {
+    "available": true,
+    "pdfs": 19,
+    "pages": 21,
+    "wall_s": 0.027,
+    "pdf_per_s": 700.5
+  },
+  "pdf_corpus": {
+    "available": true,
+    "files": 400,
+    "corpus_mb": 0.6,
+    "sweep": [
+      {
+        "workers": 1,
+        "chunk_size": 200,
+        "files": 400,
+        "ingested": 400,
+        "duplicate": 0,
+        "failed": 0,
+        "pages": 400,
+        "wall_s": 0.27,
+        "docs_per_s": 1489.0,
+        "db_mb": 2.0,
+        "peak_rss_mb": 136.2,
+        "repeats": 3,
+        "docs_per_s_min": 1361.9,
+        "docs_per_s_max": 1498.4,
+        "spread_pct": 9.2
+      },
+      {
+        "workers": 2,
+        "chunk_size": 200,
+        "files": 400,
+        "ingested": 400,
+        "duplicate": 0,
+        "failed": 0,
+        "pages": 400,
+        "wall_s": 0.28,
+        "docs_per_s": 1454.3,
+        "db_mb": 2.0,
+        "peak_rss_mb": 136.2,
+        "repeats": 3,
+        "docs_per_s_min": 1452.5,
+        "docs_per_s_max": 1458.1,
+        "spread_pct": 0.4
+      },
+      {
+        "workers": 4,
+        "chunk_size": 200,
+        "files": 400,
+        "ingested": 400,
+        "duplicate": 0,
+        "failed": 0,
+        "pages": 400,
+        "wall_s": 0.28,
+        "docs_per_s": 1430.0,
+        "db_mb": 2.0,
+        "peak_rss_mb": 136.3,
+        "repeats": 3,
+        "docs_per_s_min": 1402.3,
+        "docs_per_s_max": 1436.6,
+        "spread_pct": 2.4
+      },
+      {
+        "workers": 8,
+        "chunk_size": 200,
+        "files": 400,
+        "ingested": 400,
+        "duplicate": 0,
+        "failed": 0,
+        "pages": 400,
+        "wall_s": 0.29,
+        "docs_per_s": 1391.7,
+        "db_mb": 2.0,
+        "peak_rss_mb": 136.5,
+        "repeats": 3,
+        "docs_per_s_min": 1365.6,
+        "docs_per_s_max": 1405.4,
+        "spread_pct": 2.9
+      }
+    ]
+  },
+  "gil": {
+    "available": true,
+    "files": 150,
+    "pages_per_file": 4,
+    "serial_s": 1.34,
+    "serial_per_s": 111.8,
+    "threads": {
+      "2": {
+        "wall_s": 1.36,
+        "per_s": 109.9,
+        "speedup": 0.98
+      },
+      "4": {
+        "wall_s": 1.34,
+        "per_s": 112.0,
+        "speedup": 1.0
+      },
+      "8": {
+        "wall_s": 1.35,
+        "per_s": 110.9,
+        "speedup": 0.99
+      }
+    },
+    "process_pool": "unavailable here: PermissionError"
+  },
+  "resume": {
+    "interrupted_after": 75,
+    "docs_at_interrupt": 72,
+    "resumed_processed": 175,
+    "final_processed": 250,
+    "final_status": "COMPLETED",
+    "documents_total": 240,
+    "planned_total": 250
+  }
+}

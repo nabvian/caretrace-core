@@ -1,0 +1,17 @@
+NEUROLOGY CONSULTATION NOTE
+LAKESIDE NEUROSCIENCES INSTITUTE (SYNTHETIC)
+Neurology & Clinical Neurophysiology  |  Reg. SYN-NEU-032
+SYNTHETIC RECORD - NOT A REAL PATIENT REPORT
+Patient: Arjun Mehta          Sex: M     DOB: 15 May 1988
+Case Ref: CT-DEMO-001         MRN: SYN-448120
+Consultation Date: 17 June 2026          Unit: Neurology
+Seen by: Dr. V. Rao (synthetic), DM Neurology
+History:
+Reviewed during the current admission for symptomatic anaemia.
+Transient giddiness reported on 15 June 2026.
+Assessment:
+MRI brain reviewed. Acute infarct noted in the right parietal region.
+Advise antiplatelet therapy and neurology follow-up.
+Plan:
+EEG to be obtained. Repeat MRI in 3 months.
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 17_Neurology_Note_Jun.pdf - page 1 of 1

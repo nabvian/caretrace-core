@@ -1,0 +1,18 @@
+ELECTROENCEPHALOGRAM REPORT
+LAKESIDE NEUROSCIENCES INSTITUTE (SYNTHETIC)
+Neurology & Clinical Neurophysiology  |  Reg. SYN-NEU-032
+SYNTHETIC RECORD - NOT A REAL PATIENT REPORT
+Patient: Arjun Mehta          Sex: M     DOB: 15 May 1988
+Case Ref: CT-DEMO-001         MRN: SYN-448120
+Study Date: 19 June 2026                 Study No: EEG-26-0088
+Referred by: Dr. V. Rao (synthetic)      Montage: 10-20 international
+TECHNICAL
+Recording duration 32 minutes. Awake and drowsy states sampled.
+FINDINGS
+Posterior dominant rhythm 9.5 Hz, symmetric and reactive.
+No epileptiform discharges. No asymmetry. No electrographic seizures.
+IMPRESSION
+Normal EEG.
+Reported by: Dr. V. Rao (synthetic), DM Neurology
+Technologist: Ms. L. Pinto (synthetic)
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 18_EEG_Report_Jun.pdf - page 1 of 1

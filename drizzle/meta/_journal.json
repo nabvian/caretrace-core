@@ -1,0 +1,97 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1787493744081,
+      "tag": "0000_good_george_stacy",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1787496035772,
+      "tag": "0001_hot_apocalypse",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1787503034983,
+      "tag": "0002_nostalgic_valeria_richards",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1787503118778,
+      "tag": "0003_little_madame_web",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1787559314916,
+      "tag": "0004_curvy_masque",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1787561099096,
+      "tag": "0005_young_juggernaut",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1787561878696,
+      "tag": "0006_overrated_terrax",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1787584301680,
+      "tag": "0007_narrow_nekra",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1787584731388,
+      "tag": "0008_flowery_power_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "6",
+      "when": 1787588876203,
+      "tag": "0009_boring_galactus",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "6",
+      "when": 1787602666047,
+      "tag": "0010_supreme_forge",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "6",
+      "when": 1787688150578,
+      "tag": "0011_absent_angel",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "6",
+      "when": 1787761747593,
+      "tag": "0012_tan_vin_gonzales",
+      "breakpoints": true
+    }
+  ]
+}

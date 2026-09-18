@@ -1,0 +1,46 @@
+DISCHARGE SUMMARY
+NORTHFIELD GENERAL HOSPITAL (SYNTHETIC)
+Department of Internal Medicine
+SYNTHETIC RECORD - NOT A REAL DISCHARGE SUMMARY
+Patient: Arjun Mehta          Sex: M     DOB: 15 May 1988
+Case Ref: CT-DEMO-001         MRN: SYN-448120
+Admission date: 14 June 2026
+Discharge date: 15 June 2026
+Consultant: Dr. A. Fernandes (synthetic)
+Discharge Summary  -  Page 1 of 3
+Reason for admission:
+Symptomatic anaemia with fatigue and exertional breathlessness.
+Course in hospital:
+Patient was admitted for evaluation of anaemia. Oral iron was reviewed
+during the admission. Abdominal imaging was performed; CT findings as
+described in the CT report.
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 08_Discharge_Summary_Jun.pdf - page 1 of 3
+
+
+DISCHARGE SUMMARY
+Discharge Summary  -  Page 2 of 3
+Case Ref: CT-DEMO-001
+Investigations during admission:
+------------------------------------------------------------------
+Serum Creatinine            0.9         mg/dL
+Serum Ferritin              18          ng/mL   (dated 12 April 2026)
+------------------------------------------------------------------
+Assessment as documented at discharge:
+Iron deficiency anaemia. Renal function normal.
+GI blood loss excluded.
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 08_Discharge_Summary_Jun.pdf - page 2 of 3
+
+
+DISCHARGE SUMMARY
+Discharge Summary  -  Page 3 of 3
+Case Ref: CT-DEMO-001
+Laboratory summary at discharge:
+------------------------------------------------------------------
+Hemoglobin                 12.1         g/dL
+Platelet Count            402           x10^9/L
+------------------------------------------------------------------
+Condition at discharge: stable. Haemoglobin normalised.
+Discharge advice:
+Repeat CBC in 4 weeks. Review in the outpatient clinic.
+Dr. A. Fernandes (synthetic)
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 08_Discharge_Summary_Jun.pdf - page 3 of 3

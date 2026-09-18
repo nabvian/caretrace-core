@@ -1,0 +1,20 @@
+FOLLOW-UP NOTE
+RIVERSIDE INTERNAL MEDICINE CLINIC (SYNTHETIC)
+Follow-up Note  |  SYNTHETIC RECORD
+Patient: Arjun Mehta          Sex: M     DOB: 15 May 1988
+Case Ref: CT-DEMO-001         MRN: SYN-448120
+Follow-up date: 06 July 2026
+Seen by: Dr. R. Nair (synthetic)
+Interval history:
+Reviewed after the June admission. Reports persistent fatigue. States that
+he stopped taking the iron tablets at some point during the admission but
+is not certain of the date.
+Records reviewed:
+Discharge summary dated 15 June 2026.
+CBC dated 14 June 2026 - Hemoglobin 8.7 g/dL.
+Note: The discharge summary records a haemoglobin of 12.1 g/dL, which does
+not match the CBC of 14 June 2026. Clarification has been requested from
+the hospital.
+Plan:
+Repeat CBC. Restart oral iron pending review.
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 11_Followup_Notes.pdf - page 1 of 1

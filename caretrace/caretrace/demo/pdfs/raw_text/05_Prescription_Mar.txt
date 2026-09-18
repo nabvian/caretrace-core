@@ -1,0 +1,19 @@
+PRESCRIPTION
+RIVERSIDE INTERNAL MEDICINE CLINIC (SYNTHETIC)
+Dr. R. Nair, MD  |  Reg. SYN-77120
+SYNTHETIC RECORD - NOT A REAL PRESCRIPTION
+Patient: Arjun Mehta          Sex: M     DOB: 15 May 1988
+Case Ref: CT-DEMO-001         MRN: SYN-448120
+Date: 16 March 2026
+Rx
+------------------------------------------------------------------
+1.  Ferrous sulfate 100 mg  --  once daily, oral
+    Status: active   (continued from 20 January 2026)
+2.  Folic acid 5 mg  --  once daily, oral
+    Status: active
+3.  Vitamin C 500 mg  --  once daily, oral
+    Status: active
+------------------------------------------------------------------
+Advice: Serum ferritin to be checked. Review with results.
+Dr. R. Nair (synthetic)
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 05_Prescription_Mar.pdf - page 1 of 1

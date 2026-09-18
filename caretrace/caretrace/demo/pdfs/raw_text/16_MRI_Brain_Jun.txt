@@ -1,0 +1,18 @@
+MRI BRAIN REPORT
+NORTHFIELD IMAGING CENTRE (SYNTHETIC)
+Radiology & Advanced Imaging  |  Reg. SYN-IMG-004
+SYNTHETIC RECORD - NOT A REAL PATIENT REPORT
+Patient: Arjun Mehta          Sex: M     DOB: 15 May 1988
+Case Ref: CT-DEMO-001         MRN: SYN-448120
+Examination Date : 16 June 2026
+Accession        : IMG-26-3120
+Modality         : MRI brain, plain
+Indication       : Transient giddiness during admission.
+FINDINGS
+Diffusion-weighted imaging shows no restricted diffusion.
+No acute infarct. No intracranial bleed.
+Ventricles and sulci are age appropriate.
+IMPRESSION
+No acute intracranial abnormality.
+Reported by : Dr. M. D'Souza (synthetic), MD Radiodiagnosis
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 16_MRI_Brain_Jun.pdf - page 1 of 1

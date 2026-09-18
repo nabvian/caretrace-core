@@ -1,0 +1,20 @@
+CONSULTATION NOTE
+RIVERSIDE INTERNAL MEDICINE CLINIC (SYNTHETIC)
+Consultation Note  |  SYNTHETIC RECORD
+Patient: Arjun Mehta          Sex: M     DOB: 15 May 1988
+Case Ref: CT-DEMO-001         MRN: SYN-448120
+Consultation date: 09 February 2026
+Seen by: Dr. R. Nair (synthetic)
+History:
+Three months of fatigue and reduced exercise tolerance. No overt bleeding
+reported by the patient. Diet is predominantly vegetarian.
+Examination:
+Pallor of the conjunctivae. No organomegaly documented on examination.
+Records reviewed:
+CBC dated 18 January 2026 - Hemoglobin 9.2 g/dL, MCV 68 fL.
+Assessment as documented:
+Microcytic anaemia. Iron deficiency confirmed.
+Thalassaemia trait excluded.
+Plan:
+Continue oral iron. Repeat CBC in 6 weeks.
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 03_Consultation_Feb.pdf - page 1 of 1

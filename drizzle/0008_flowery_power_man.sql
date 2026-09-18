@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `idx_processing_runs_case_sequence` ON `processing_runs` (`case_id`,`run_sequence`);

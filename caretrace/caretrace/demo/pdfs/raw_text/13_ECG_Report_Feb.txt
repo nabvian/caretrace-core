@@ -1,0 +1,19 @@
+ELECTROCARDIOGRAM REPORT
+ST. ANSELM CARDIAC SCIENCES (SYNTHETIC)
+Non-Invasive Cardiology  |  Reg. SYN-CAR-017
+SYNTHETIC RECORD - NOT A REAL PATIENT REPORT
+Patient: Arjun Mehta          Sex: M     DOB: 15 May 1988
+Case Ref: CT-DEMO-001         MRN: SYN-448120
+Study Date: 09 February 2026             Study No: ECG-26-0417
+Referred by: Dr. A. Sharma (synthetic)   Modality: 12-lead ECG
+MEASUREMENTS
+  Ventricular rate .......... 96 bpm
+  PR interval ............... 148 ms
+  QRS duration .............. 88 ms
+  QT interval ............... 386 ms
+  QTc (Bazett) .............. 428 ms
+INTERPRETATION
+Sinus rhythm. No acute ST-T changes. No conduction block.
+Borderline sinus tachycardia at the time of recording.
+Reported by: Dr. P. Iyer (synthetic), DM Cardiology
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 13_ECG_Report_Feb.pdf - page 1 of 1

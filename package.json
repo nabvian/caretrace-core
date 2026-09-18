@@ -1,0 +1,32 @@
+{
+  "name": "caretrace-core",
+  "version": "0.1.0",
+  "description": "CARETRACE open core — deterministic evidence audit and reconciliation for fragmented medical records. Unvalidated research prototype; not for clinical use.",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "private": false,
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "keywords": [
+    "evidence",
+    "audit",
+    "provenance",
+    "medical-records",
+    "deterministic",
+    "reconciliation"
+  ],
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "tsx test/engine.test.ts",
+    "check": "npm run typecheck && npm run test"
+  },
+  "dependencies": {
+    "drizzle-orm": "0.45.2"
+  },
+  "devDependencies": {
+    "@types/node": "22.19.19",
+    "tsx": "^4.19.2",
+    "typescript": "5.9.3"
+  }
+}

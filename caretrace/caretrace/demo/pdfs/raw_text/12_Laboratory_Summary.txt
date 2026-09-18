@@ -1,0 +1,22 @@
+CUMULATIVE LABORATORY SUMMARY
+MERIDIAN DIAGNOSTIC LABORATORY (SYNTHETIC)
+12 Rowan Street, Fictionville  |  Lab Lic. SYN-0000
+SYNTHETIC RECORD - NOT A REAL PATIENT REPORT
+Patient: Arjun Mehta          Sex: M     DOB: 15 May 1988
+Case Ref: CT-DEMO-001         MRN: SYN-448120
+Cumulative Laboratory Summary
+Compiled: 08 July 2026                  Report No: LAB-26-13440
+This summary restates previously reported results. It is a transcription of
+earlier reports and does not represent new samples.
+------------------------------------------------------------------
+DATE            TEST                   RESULT      UNIT
+------------------------------------------------------------------
+18 Jan 2026     Hemoglobin              9.2        g/dL
+18 Jan 2026     MCV                    68          fL
+15 Mar 2026     Hemoglobin             10.4        g/dL
+12 Apr 2026     Serum Ferritin         18          ng/mL
+14 Jun 2026     Hemoglobin              8.7        g/dL
+14 Jun 2026     MCV                    68          fL
+------------------------------------------------------------------
+Verified by: Dr. S. Kulkarni (synthetic), MD Pathology
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 12_Laboratory_Summary.pdf - page 1 of 1

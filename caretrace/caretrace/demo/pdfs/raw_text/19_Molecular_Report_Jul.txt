@@ -1,0 +1,22 @@
+MOLECULAR DIAGNOSTICS REPORT
+HELIX GENOMICS (SYNTHETIC)
+Molecular Diagnostics Division  |  CAP SYN-MOL-221
+SYNTHETIC RECORD - NOT A REAL PATIENT REPORT
+Patient: Arjun Mehta          Sex: M     DOB: 15 May 1988
+Case Ref: CT-DEMO-001         MRN: SYN-448120
+Collection Date : 28 June 2026        Report Date : 02 July 2026
+Accession       : MOL-26-0774         Specimen    : Peripheral blood
+Ordered by      : Dr. R. Nair (synthetic)
+ASSAY : Targeted haemoglobinopathy panel (HBB, HBA1, HBA2)
+        Quantitative HBV DNA by real-time PCR
+RESULT SUMMARY
+  Analyte                          Result            Unit
+  HBB sequencing                   No pathogenic variant detected
+  Alpha-globin deletion            Not detected
+  HBV DNA                          Not detected      copies/mL
+  Cycle threshold (Ct)             38.4
+INTERPRETATION
+No pathogenic variant identified in the genes examined.
+Haemoglobinopathy not supported by this panel.
+Reported by : Dr. N. Kapoor (synthetic), PhD FACMG
+SYNTHETIC DEMONSTRATION DOCUMENT - CT-DEMO-001 - 19_Molecular_Report_Jul.pdf - page 1 of 1
