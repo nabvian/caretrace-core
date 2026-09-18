@@ -91,6 +91,19 @@ collect and record signatures automatically.
 If you work with a hospital or a public-health body that would like to trial
 CARETRACE in a non-production setting, please say so when you get in touch.
 
+## Who I most want to work with
+
+My first priority is the public sector: **government health departments,
+government medical colleges, and government hospitals** — anywhere in the world.
+There is no country barrier. The intent behind CARETRACE is that public and
+government health systems, wherever they are, should be able to evaluate and
+ultimately use it freely. Requests from these institutions are the ones I most
+want to receive, and I will prioritise them.
+
+This does not change the terms above — access to the private repository still
+runs through the same NDA — and, as the next section explains, "use it" today
+means evaluation and shadow-mode pilots, not live patient care.
+
 ## A note on deployment
 
 Making CARETRACE freely available to public and government hospitals is a
